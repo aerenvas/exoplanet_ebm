@@ -9,17 +9,22 @@ Each notebook explores a new step of complexity and introduces new physical proc
 
 ## Current Progress
 
-✅ Basic 0D Energy Balance  
-✅ Basic Greenhouse Effect  
-🚧 Atmospheric Emmissivity based on Composition and Pressure  
-🚧 Ice-Albedo Feedback  
-⏳ 1D Latitudinal Energy Balance  
-⏳ 2D Energy Balance Model  
-⏳ Dynamic Atmospheric Cell Heat Transport
+✅ Completed
+ - Basic 0D Energy Balance  
+ - Basic Greenhouse Effect
+  
+🚧 In Progress
+ - Atmospheric Emmissivity based on Composition and Pressure  
+ - Ice-Albedo Feedback  
+
+⏳ Coming Soon
+ - 1D Latitudinal Energy Balance  
+ - 2D Energy Balance Model  
+ - Dynamic Atmospheric Cell Heat Transport
 
 ## Motivation
 
-Simple phsysics-based models are often limited to one or two physical processes, their simplicity, however, makes them highly interpretable and easily extensible. My project aims to utilise the extreme simplicity of physics-based climate models to create a layered structure, increasing complexity with each addition, to create a comprehensive climate model and investigate habitability by changing the parameters.
+Simple physics-based models are often limited to one or two physical processes, their simplicity, however, makes them highly interpretable and easily extensible. My project aims to utilise the extreme simplicity of physics-based climate models to create a layered structure, increasing complexity with each addition, to create a comprehensive climate model and investigate habitability by changing the parameters.
 
 The long-term objective of this project is to build increasingly sophisticated climate models while maintaining transparent, physics-based implementations. Ultimately, these models will be used to investigate planetary habitability and explore how changes in planetary and atmospheric properties influence climate.
 
