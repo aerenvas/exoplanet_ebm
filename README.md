@@ -1,4 +1,4 @@
-# Physics-Based Exoplanet CLimate Modeling
+# Physics-Based Exoplanet Climate Modeling
 
 A collection of physics-based climate models built from first principles, progressing from simple Energy Balance Models (EBMs) to increasingly complex simulations.
 
