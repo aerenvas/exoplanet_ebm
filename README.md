@@ -12,9 +12,9 @@ Each notebook explores a new step of complexity and introduces new physical proc
 ✅ Completed
  - Basic 0D Energy Balance  
  - Basic Greenhouse Effect
+ - Atmospheric Emmissivity based on Composition and Pressure
   
-🚧 In Progress
- - Atmospheric Emmissivity based on Composition and Pressure  
+🚧 In Progress  
  - Ice-Albedo Feedback  
 
 ⏳ Coming Soon
