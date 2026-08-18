@@ -14,5 +14,10 @@ __pycache__/
 # Environment variables
 .env
 
-#Downloaded Datasets
+# Downloaded Datasets
 datasets/
+
+# Personal files
+Model-Main.ipynb
+TO-DO.ipynb
+ 
