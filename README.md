@@ -15,6 +15,7 @@ Each notebook explores a new step of complexity and introduces new physical proc
  - Atmospheric Emmissivity based on Composition and Pressure
   
 🚧 In Progress  
+ - Atmospheric Emmissivity based on Composition and Pressure (Improvements)
  - Ice-Albedo Feedback  
 
 ⏳ Coming Soon
