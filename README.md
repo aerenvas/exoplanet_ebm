@@ -16,9 +16,10 @@ Each notebook explores a new step of complexity and introduces new physical proc
   
 🚧 In Progress  
  - Atmospheric Emmissivity based on Composition and Pressure (Improvements)
- - Ice-Albedo Feedback  
+ - Water Vapour Feedback 
 
 ⏳ Coming Soon
+ - Ice-Albedo Feedback
  - 1D Latitudinal Energy Balance  
  - 2D Energy Balance Model  
  - Dynamic Atmospheric Cell Heat Transport
